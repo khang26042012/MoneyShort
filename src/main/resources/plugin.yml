@@ -1,0 +1,7 @@
+name: MoneyShort
+version: 1.0.0
+main: vn.pika.moneyshort.MoneyShort
+api-version: "1.20"
+author: PikaMC
+description: Hien thi tien Vault gon (1.55m, 10k)
+depend: [Vault, PlaceholderAPI]
